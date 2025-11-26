@@ -1,6 +1,7 @@
 # ❤️ Générateur de Comptes-Rendus Cardiologiques
 
 Application Streamlit pour générer automatiquement des comptes-rendus cardiologiques structurés à partir de fichiers PDF bruts, en utilisant un modèle LLM local (LM Studio).
+Utilisation à des fins pédagogiques ce logiciel n'étant pas de marquage CE DM.... Pour l'instant :) 
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
