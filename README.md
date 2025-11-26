@@ -31,8 +31,8 @@ Application Streamlit pour générer automatiquement des comptes-rendus cardiolo
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-username/cardiac-report-generator.git
-cd cardiac-report-generator
+git clone https://github.com/benoitleq/localcardioreport.git
+cd localcardioreport
 ```
 
 ### 2. Créer un environnement virtuel
