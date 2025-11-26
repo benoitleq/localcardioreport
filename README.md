@@ -171,4 +171,4 @@ Pour toute question ou suggestion, ouvrez une [issue](https://github.com/votre-u
 
 ---
 
-Fait avec ❤️ pour la cardiologie
+Fait avec ❤️ pour la cardiologie / Benoit LEQUEUX
